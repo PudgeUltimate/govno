@@ -1,0 +1,33 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://gdsgsgd.000webhostapp.com" resolutions="1x" timestamp="1623021120630">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="_________.css" crc="4042801234" ref="кредитные"/>
+    <file name="index.css" crc="4035178090" ref="index"/>
+    <file name="nomq_index.css" crc="492162680" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:кредитные"/>
+    <file name="museutils.js" crc="340535759" ref="index:кредитные"/>
+    <file name="whatinput.js" crc="86476730" ref="index:кредитные"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:кредитные"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:кредитные"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:кредитные"/>
+  </folder>
+  <folder name="images">
+    <file name="u233-4.png" crc="4101429360" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="1463898-free-download-moving-matrix-code-wallpaper-1920x1080-for-lockscreen.jpg" crc="368689730" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vector-credit-card-icon.jpg" crc="210386856" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vector-credit-card-icon-u781-fr.jpg" crc="4154237633" ref="index"/>
+    <file name="u233-42.png" crc="3843904794" ref="index"/>
+  </folder>
+  <file name="index.html" crc="424484007" seo="true" mt="1623016774568" redirect="true"/>
+  <file name="кредитные.html" crc="177909208" seo="true" mt="1623012101225" redirect="false"/>
+</manifest>
